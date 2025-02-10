@@ -7,6 +7,7 @@ public class Practice {
 		Practice p1=new Practice();
 		p1.m1();
 		p1.m2();
+		p1.m3();
 
 		
 	}
@@ -19,5 +20,9 @@ public class Practice {
 	public void m2()
 	{
 		System.out.println("Method m2 is running.");
+	}
+	public void m3()
+	{
+		System.out.println("Method m3 is running.");
 	}
 }
