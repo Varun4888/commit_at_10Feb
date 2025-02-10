@@ -6,6 +6,7 @@ public class Practice {
 		// TODO Auto-generated method stub
 		Practice p1=new Practice();
 		p1.m1();
+		p1.m2();
 
 		
 	}
@@ -13,5 +14,10 @@ public class Practice {
 	public void m1()
 	{
 		System.out.println("Method m1 is running.");
+	}
+	
+	public void m2()
+	{
+		System.out.println("Method m2 is running.");
 	}
 }
