@@ -18,7 +18,8 @@ public class EX1 {
 		 int [] b={1,2,4,5,6,7,8,7};
 		 System.out.println(Arrays.compare(a, b));
 		 
-		 System.out.println("Commit at 11th Feb.");
+		 System.out.println("First commit at 11th Feb.");
+		 System.out.println("Second commit at 11th Feb.");
 		 
 }
 }
