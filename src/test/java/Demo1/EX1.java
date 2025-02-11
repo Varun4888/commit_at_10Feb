@@ -21,6 +21,7 @@ public class EX1 {
 		 System.out.println("First commit at 11th Feb.");
 		 System.out.println("Second commit at 11th Feb.");
 		System.out.println("Pull request at 11th Feb.");
+		System.out.println("Push request at 11th Feb.");
 		 
 }
 }
